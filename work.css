@@ -11,11 +11,11 @@ header {
     display: flex;
     justify-content: flex-end;
    
-    margin: 27px 60px 90px 0;
+    margin: 27px 60px 78px 0;
 }
 header a {
     font-style: normal;
-    font-weight: 600;
+    font-weight: bold;
     font-size: 20px;
     text-decoration: none;
     margin-left: 33px;
@@ -33,9 +33,9 @@ section {
    
 }
 .content_1 {
-    font-weight: 800;
+    font-weight: bold;
     font-size: 34px;
-    line-height: auto;
+    line-height: 51px;
 }
 .content_text {
     display: flex;
@@ -47,7 +47,7 @@ section {
     width: 62px;
     background: #FF7C7C;
     border-radius: 16px;
-    font-weight: 900;
+    font-weight: bold;
     font-size: 18px;
     color: #FFFFFF;
     display: flex;
@@ -58,27 +58,27 @@ section {
 
 .content_text_2 {
     padding-left: 27px;
-    font-weight: 400;
+    font-weight: normal;
     font-size: 20px;
     line-height: 29px;
 }
 
 .content_text_3 {
-    font-weight: 400;
+    font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     color: #000000;
     padding-bottom: 23px;
 }
 .text_1{
-    font-weight: 600;
+    font-weight: bold;
 font-size: 30px;
 line-height: 60px;
 color: #21243D;
 padding-top: 54px;
 }
 .text_2{
-    font-weight: 600;
+    font-weight: bold;
 font-size: 24px;
 line-height: 60px;
 color: #21243D;
