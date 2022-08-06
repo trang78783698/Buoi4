@@ -105,7 +105,6 @@ footer {
     justify-content: space-between;
     margin-top: 51px;
 }
-
 .footer_icon img {
     width: 30px;
     height: 30px;
@@ -120,27 +119,15 @@ footer {
 .none-pc-flex {
     display: none;
 }
-/* screen-mobile */
+/* Mobile */
 @media screen and (max-width:375px) {
     header {
-        margin: 12px;
+        margin: 32px 0 18px;
     }
     header a {
         display: none;
     }
-    body .none-pc {
-        display: block;
-    }
-    .none-pc-flex {
-        display: flex;
-    }
-    .none-mobile {
-        display: none;
-    }
-    .content_1{
-        padding: 32px 0 23px;
-    }
     .section_all{
-        width: 92%;
+        width: 85%;
     }
 }
