@@ -10,7 +10,6 @@ body .none-pc {
 header {
     display: flex;
     justify-content: flex-end;
-   
     margin: 27px 60px 78px 0;
 }
 header a {
@@ -71,14 +70,14 @@ section {
     padding-bottom: 23px;
 }
 .text_1{
-    font-weight: bold;
+font-weight: bold;
 font-size: 30px;
 line-height: 60px;
 color: #21243D;
 padding-top: 54px;
 }
 .text_2{
-    font-weight: bold;
+font-weight: bold;
 font-size: 24px;
 line-height: 60px;
 color: #21243D;
@@ -115,9 +114,6 @@ footer {
     color: #21243D;
     margin-top: 26px;
     margin-bottom: 54px;
-}
-.none-pc-flex {
-    display: none;
 }
 /* Mobile */
 @media screen and (max-width:375px) {
